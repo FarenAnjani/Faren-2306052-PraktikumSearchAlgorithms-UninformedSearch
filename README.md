@@ -1,0 +1,1 @@
+# Faren-2306052-PraktikumSearchAlgorithms-UninformedSearch
